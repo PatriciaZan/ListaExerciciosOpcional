@@ -7,6 +7,24 @@
 
 var prompt = require('prompt-sync')();
 
+let menorNum 
+let count
+let media
+
+function menorValor(num){
+    menorNum = num
+
+    if(menorNum > num){
+        menorNum = num
+    } else{
+        return menorNum
+    }
+}
+
+function calcMedia(soma, count){
+    media = soma / count
+}
+
 do{
     console.log('Para finalizar digite 0');
 
@@ -15,7 +33,7 @@ do{
         let num = Number(prompt('Digite um número:'))
 
         soma += num
-        
+        count++
     }
 
 }while(num != 0)
