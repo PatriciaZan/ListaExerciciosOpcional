@@ -1,0 +1,1 @@
+soma / array.length
