@@ -1,1 +1,2 @@
-soma / array.length
+.log("RESPOSTA");
+    console
