@@ -14,7 +14,7 @@ function apenasArrays(obj) {
 
   for (let key in obj) {
     if (Array.isArray(obj[key])) {
-      resultado[key] = obj(key);
+      resultado[key] = obj[key];
     }
   }
 

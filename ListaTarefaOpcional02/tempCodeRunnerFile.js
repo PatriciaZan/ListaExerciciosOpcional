@@ -1,2 +1,1 @@
-.log("RESPOSTA");
-    console
+e
