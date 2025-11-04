@@ -11,8 +11,8 @@ O Exercicio final 50 está contido dentro de ``ListaTarefaOpcional02/50`` uma ve
 ## Execução da atividade em sua maquina ✏
 
 1. Realize o clone do repositorio.
-2. dentro da pasta ``ListaTarefaOpcional02`` realize o comando ``npm i``<br>
+2. Dentro da pasta ``ListaTarefaOpcional02`` realize o comando ``npm i``<br>
 - Para instalar as dependências nescessárias para rodar desafios que necessitam de inputs pelo prompt.
 - Após isso entre em cada arquivo .js e execute o 'Run Code'(VSCode) na parte direita superior ou pelo comando 'Crt+Alt+N' caso configurado.
 
-3. Execução testada no VsCode.
+3. Execução e resoluções testadas no VsCode.
